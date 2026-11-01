@@ -1,0 +1,1 @@
+{ "name": "Mercè Riera Perruqueria i Estètica", "short_name": "Mercè Riera", "start_url": "./", "display": "standalone", "background_color": "#FCF9FB", "theme_color": "#3E2449", "icons": [{ "src": "assets/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }] }
